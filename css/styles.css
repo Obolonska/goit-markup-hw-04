@@ -199,11 +199,7 @@ img {
   clip: rect(0 0 0 0);
   overflow: hidden;
 }
-.about {
-}
 
-.about-title {
-}
 .about-icons {
   display: flex;
   align-items: center;
